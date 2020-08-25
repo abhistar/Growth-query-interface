@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h3>Results</h3>
+
+<p>{{n_matches}} results in {{ "%.6f"|format(execution_time) }}seconds </p>
+
+<!-- Query summary -->
+{% from 'macros.html' import query_summary %}
+<p>Your Query</p>
+{{ query_summary(dict_query, form_attributes, dict_attributes) }}
+
+<!-- Query results -->
+{% from 'macros.html' import table %}
+{{ table(list_attributes, dict_attributes, list_images, str_list_filepaths) }}
+
+
+{% endblock content %}
+

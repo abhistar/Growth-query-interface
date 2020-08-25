@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<!-- Link for querying data -->
+<h3>Growth India</h3>
+<a href="{{ url_for('images.query') }}">Query</a>
+<br>
+<br>
+
+<!-- form to input date for nightly page -->
+<form method="POST" action="/nightly_page">
+    {{ form.hidden_tag() }}
+        <div class="form-group">
+            {{ form.date.label }}
+            {{ form.date }}
+            {{ form.submit(class="btn btn-outline-info") }}
+        </div>
+</form>    
+
+{% endblock %}

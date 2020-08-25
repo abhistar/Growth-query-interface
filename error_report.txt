@@ -1,0 +1,167 @@
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'fits' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'WCS' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703182255-554-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703183511-292-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2018hna/reduced/20190703184830-646-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703161852-455-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703160525-381-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/Uscorpii/reduced/20190703155158-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703181205-427-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703174840-642-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/PNV_J09554664+690/reduced/20190703180023-190-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703165757-336-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703172331-571-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gaf/reduced/20190703171014-065-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703192303-886-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SAX_J2103.5+4545/reduced/20190703191838-315-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703152725-501-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703153940-563-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SN2019gcl/reduced/20190703151511-486-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/SWIFT_J1756.9-2508/reduced/20190703190117-667-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703173608-299-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703164510-407-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190307/S5_0532+82/reduced/20190703163151-632-RA.wcs.proc.fits: name 'file_to_Image_obj' is not defined
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618200505-219-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618201832-272-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/SN2019gcl/reduced/20190618173313-874-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/ZTF19aarykkb/reduced/20190618182822-034-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618200505-219-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618201832-272-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/SN2019gcl/reduced/20190618173313-874-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/ZTF19aarykkb/reduced/20190618182822-034-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618200505-219-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618201832-272-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/SN2019gcl/reduced/20190618173313-874-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/ZTF19aarykkb/reduced/20190618182822-034-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618200505-219-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618201832-272-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/SN2019gcl/reduced/20190618173313-874-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/ZTF19aarykkb/reduced/20190618182822-034-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618200505-219-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/GRB190604A/reduced/20190618201832-272-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/SN2019gcl/reduced/20190618173313-874-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array
+Failed to make db object /home/adeem/Desktop/growth/20190618/ZTF19aarykkb/reduced/20190618182822-034-RA.wcs.fits.proc.cr.fits: buffer is too small for requested array

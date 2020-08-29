@@ -36,6 +36,7 @@ li a {
 
 li a:hover {
 	background-color: grey;
+	color: white;
 }
 
 .background-box {

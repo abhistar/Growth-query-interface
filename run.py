@@ -1,4 +1,4 @@
-from images_query_interface import create_app
+from images_query_interface import create_app, db
 
 app = create_app()
 

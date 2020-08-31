@@ -33,4 +33,7 @@ def create_app(config_class=Config):
     app.register_blueprint(main)
     app.register_blueprint(nightly)
 
+    with app.app_context():
+        db.create_all()
+
     return app

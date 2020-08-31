@@ -13,9 +13,9 @@ from flask_login import UserMixin
 def load_user(user_id):
     return User.query.get(int(user_id))
 
+
 # Image table in the database
 class Image(db.Model):
-
     id = db.Column(db.Integer, primary_key=True)
     date_observed = db.Column(db.DateTime, unique=True, nullable=False)
     jd = db.Column(db.Float, unique=True, nullable=False)
@@ -54,6 +54,7 @@ class Image(db.Model):
 
 # User table in the database
 class User(db.Model, UserMixin):
+    __bind_key__ = 'users'
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(20), unique=True, nullable=False)
     email = db.Column(db.String(120), unique=True, nullable=False)
@@ -61,7 +62,7 @@ class User(db.Model, UserMixin):
     history = db.Column(db.String(240))
 
     def __repr__(self):
-        return ("User({self.username}, {self.email}").format()
+        return "User({self.username}, {self.email})".format()
  
 
 def read_header(key,header_dict):
@@ -125,18 +126,18 @@ def file_to_Image_obj(fits_image_filename):
     
     return this_image
 
-# takes as input directory path and adds all fits files (.proc.cr.fits extension) to the db
+# takes as input directory path and adds all fits files (.fits extension) to the db
 def add_dir_to_db(dirpath, append=True):
-    print('I am called')
+    print('Adding Images to Database')
     if not append:
-        db.drop_all()
-        db.create_all()
+        db.drop_all(bind=None)
+        db.create_all(bind=None)
     
     for dirpath, dirnames, filenames in os.walk(dirpath):
         for filename in filenames:
             filepath = os.path.join(dirpath, filename)
             #changed to proc.fits for demo
-            if filepath.endswith('.proc.fits'):
+            if filepath.endswith('.fits'):
                 try :
                     this_image = file_to_Image_obj(filepath)
                     print(filepath, this_image.date_observed)
@@ -147,4 +148,10 @@ def add_dir_to_db(dirpath, append=True):
                     print (str(e))
                 
                 
+    db.session.commit()
+
+def add_user_to_db(username, email, password):
+    print('Adding User')
+    user = User(username=username, email=email, password=password)
+    db.session.add(user)
     db.session.commit()

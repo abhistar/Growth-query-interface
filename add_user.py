@@ -1,5 +1,6 @@
 from images_query_interface import db, create_app, bcrypt
 from images_query_interface.models import User
+from images_query_interface.models import add_user_to_db
 import argparse
 
 
@@ -21,7 +22,4 @@ if __name__ == '__main__':
     app.app_context().push()
     with app.app_context():
         hashed_password = bcrypt.generate_password_hash(password).decode('utf-8')
-        this_user = User(username=username, email=email, password=hashed_password)
-        db.session.add(this_user)
-        db.session.commit()
-
+        add_user_to_db(username, email, hashed_password)

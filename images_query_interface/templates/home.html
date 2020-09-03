@@ -2,21 +2,35 @@
 {% block content %}
 
 <!-- Link for querying data -->
-<h1>Welcome!</h1>
-<a href="{{ url_for('images.query') }}">Query</a>
+<h1 align="center">Welcome!</h1>
+<!--<button><a href="{{ url_for('images.query') }}">Query</a></button>-->
 <br>
 <br>
 
-
+<div class="row">
+	<div class="card">
+  <div class="container">
+  	<h1 align="center">Make a Query</h1>
+    <h4><b><center><button><a href="{{ url_for('images.query') }}">Query</a></button></center></b></h4>
+  </div>
+</div>
 
 <!-- form to input date for nightly page -->
-<form method="POST" action="/nightly_page">
+<div class="card">
+  <div class="container">
+  	<h1 align="center">Generate a nightly page</h1>
+    <h4><b><center>
+    <form method="POST" action="/nightly_page">
     {{ form.hidden_tag() }}
         <div class="form-group">
             {{ form.date.label }}
             {{ form.date }}
             {{ form.submit(class="btn btn-outline-info") }}
         </div>
-</form>    
+    </form>
+</center></b></h4>
+  </div>
+</div>
+</div>
 
 {% endblock %}

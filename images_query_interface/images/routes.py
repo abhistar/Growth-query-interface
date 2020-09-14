@@ -11,6 +11,7 @@ import time
 import os
 import io
 import zipfile
+import sys
 
 images = Blueprint('images', __name__)
 
@@ -55,7 +56,7 @@ def display():
     
     time_end = time.time()
     execution_time = time_end-time_start
-
+    print(list_images, file=sys.stdout) # some hack works to keep values Nan by printing this line
     return render_template('display_result.html', title='Results', dict_query=dict_query, form_attributes=form_attributes,
     list_attributes = dict_attributes.keys(), dict_attributes=dict_attributes, list_images = list_images,  
     str_list_filepaths = str_list_filepaths, execution_time=execution_time, n_matches=n_matches)

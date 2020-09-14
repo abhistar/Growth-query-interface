@@ -7,6 +7,7 @@ import datetime
 from dateutil.parser import parse
 import numpy as np
 from flask_login import UserMixin
+import sys
 
 
 @login_manager.user_loader
@@ -49,7 +50,10 @@ class Image(db.Model):
 
     def __repr__(self):
         attrs = vars(self)
-        return ', '.join("%s: %s" % item for item in attrs.items())
+        for index,vals in attrs.items():
+            if not index.startswith('__') and attrs[index]==None:
+                attrs[index] = float("Nan")
+        return ', '.join("{}".format(item) for item in attrs.items())
     
 
 # User table in the database

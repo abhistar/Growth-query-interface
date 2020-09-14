@@ -136,5 +136,3 @@ def second_approx(first_approx_list, ra, dec):
         if not (condition_bool_polgn(polygon_sky_points, ra, dec)):
             second_approx_list.remove(image)
     return second_approx_list
-
-

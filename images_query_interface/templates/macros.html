@@ -4,6 +4,7 @@
 
         <thead>
         <tr>
+            <th>Select to hide</th>
             {% for attribute in list_attributes %}
             <th>{{dict_attributes[attribute]}}</th>
             {% endfor %}
@@ -13,6 +14,7 @@
         <tbody>
         {% for image in list_images %}
             <tr>
+                <td><input class="commoncheckbox" type="checkbox"></td>
             {% for attribute in list_attributes %}
                 {% if image[attribute] is number %}
                 
@@ -39,10 +41,19 @@
     </table>
     <!-- link for downloading all images as a zip file -->
     <p>
+        <button id="allotBtn">Hide selected rows</button>
         <button><a href="{{ url_for('images.download_zip', str_list_filepaths = str_list_filepaths) }}">Download all files as zip</a></button>
     <button><a href="#" onclick="download_table_as_csv('projectSpreadsheet');">Export Table data into csv</a></button>
     </p>
-    
+    <script type="text/javascript">
+        $(document).on("click", "#allotBtn", function () {
+    $('#projectSpreadsheet tr [class="commoncheckbox"]').each(function(i, chk) {
+         if (chk.checked) {
+             $("#projectSpreadsheet tr:nth-child("+(i+1)+")").css("display", "none");
+         }
+    });
+});
+    </script>
 
 {% endmacro %}
 
